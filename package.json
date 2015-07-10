@@ -1,0 +1,29 @@
+{
+  "name": "nd-spinner",
+  "version": "1.0.0",
+  "description": "转动的菊花",
+  "keywords": [],
+  "homepage": "https://github.com/ndfront/nd-spinner",
+  "author": {
+    "name": "crossjs",
+    "email": "liwenfu@crossjs.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ndfront/nd-spinner.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ndfront/nd-spinner/issues"
+  },
+  "licenses": "MIT",
+  "devDependencies": {},
+  "spm": {
+    "main": "index.js",
+    "dependencies": {
+      "nd-overlay": "1.0.0"
+    },
+    "devDependencies": {
+      "expect.js": "0.3.1"
+    }
+  }
+}
