@@ -22,7 +22,7 @@
   "licenses": "MIT",
   "main": "index.js",
   "dependencies": {
-    "nd-overlay": "^3.0.0"
+    "nd-overlay": "^3.0.1"
   },
   "devDependencies": {
     "expect.js": "^0.3.1",
